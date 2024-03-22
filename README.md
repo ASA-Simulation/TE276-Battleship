@@ -1,6 +1,4 @@
 # Battleship - Exemple of a simulation implemented in Python using ECS architecture
-===================================================================================
-
 
 Instituto de Estudos Avançados (IEAv) e Instituto Tecnológico de Aeronáutica (ITA)
 
