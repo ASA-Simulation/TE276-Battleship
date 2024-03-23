@@ -2,7 +2,7 @@ import esper
 
 from battleship.component import Hazard, Health, Position
 from battleship.config import logger
-from battleship.utils import Status, get_distance   # noqa: F401
+from battleship.utils import Status, get_distance  # noqa: F401
 
 from . import AbstractProcessor
 
